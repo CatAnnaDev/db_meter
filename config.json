@@ -1,0 +1,6 @@
+{
+  "meter_width": 100,
+  "moving_avg_size": 15,
+  "alert_threshold": 80.0,
+  "use_moving_average": true
+}
